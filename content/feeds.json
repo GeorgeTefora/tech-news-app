@@ -1,0 +1,22 @@
+[
+  { "title": "Hacker News (front page)", "url": "https://hnrss.org/frontpage", "site": "https://news.ycombinator.com/", "tags": ["News"] },
+  { "title": "Lobsters", "url": "https://lobste.rs/rss", "site": "https://lobste.rs/", "tags": ["News", "Systems"] },
+  { "title": "Techmeme", "url": "https://www.techmeme.com/feed.xml", "site": "https://www.techmeme.com/", "tags": ["News"] },
+  { "title": "The Pragmatic Engineer", "url": "https://newsletter.pragmaticengineer.com/feed", "site": "https://newsletter.pragmaticengineer.com/", "tags": ["News", "Stack Critique"] },
+  { "title": "ByteByteGo", "url": "https://blog.bytebytego.com/feed", "site": "https://blog.bytebytego.com/", "tags": ["Systems"] },
+  { "title": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "site": "https://simonwillison.net/", "tags": ["AI Engineering"] },
+  { "title": "Latent Space", "url": "https://www.latent.space/feed", "site": "https://www.latent.space/", "tags": ["AI Engineering"] },
+  { "title": "Import AI", "url": "https://importai.substack.com/feed", "site": "https://importai.substack.com/", "tags": ["AI Engineering"] },
+  { "title": "Interconnects", "url": "https://www.interconnects.ai/feed", "site": "https://www.interconnects.ai/", "tags": ["AI Engineering"] },
+  { "title": "tl;dr sec", "url": "https://rss.beehiiv.com/feeds/xgTKUmMmUm.xml", "site": "https://tldrsec.com/", "tags": ["Cybersecurity"] },
+  { "title": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/", "site": "https://krebsonsecurity.com/", "tags": ["Cybersecurity"] },
+  { "title": "Darknet Diaries", "url": "https://feeds.megaphone.fm/darknetdiaries", "site": "https://darknetdiaries.com/", "tags": ["Cybersecurity", "Culture"] },
+  { "title": "Stratechery", "url": "https://stratechery.com/feed/", "site": "https://stratechery.com/", "tags": ["News", "Culture"] },
+  { "title": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "site": "https://arstechnica.com/", "tags": ["News"] },
+  { "title": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "site": "https://www.theverge.com/", "tags": ["News"] },
+  { "title": "TechCrunch", "url": "https://techcrunch.com/feed/", "site": "https://techcrunch.com/", "tags": ["News"] },
+  { "title": "404 Media", "url": "https://www.404media.co/rss/", "site": "https://www.404media.co/", "tags": ["News"] },
+  { "title": "Wired", "url": "https://www.wired.com/feed/rss", "site": "https://www.wired.com/", "tags": ["News"] },
+  { "title": "Fireship (YouTube)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA", "site": "https://www.youtube.com/@Fireship", "tags": ["Culture", "Frontend & Tooling"] },
+  { "title": "xkcd", "url": "https://xkcd.com/atom.xml", "site": "https://xkcd.com/", "tags": ["Culture"] }
+]
